@@ -1,3 +1,4 @@
+
 # Python Menu-Based Project
 This project is a comprehensive menu-based Python application that integrates various functionalities, including sending emails and SMS, web scraping, geo-location, text-to-audio conversion, volume control, and more. The project also covers basic machine learning tasks such as data processing and image manipulation.
 ## Features
@@ -66,5 +67,6 @@ python driver.py
 Feel free to open issues or submit pull requests for improvements and bug fixes.
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details
+[MIT](https://choosealicense.com/licenses/mit/)
 
