@@ -5,7 +5,9 @@ This project is a comprehensive menu-based Python application that integrates va
 • Send Email Message: Send email messages using SMTP.
 
 • Send SMS Message: Send SMS messages using the Twilio API.
+
 • Scrape Top 5 Google Search Results: Retrieve top search results from Google.
+
 • Find Geo Coordinates and Location: Get current location coordinates and address.
 • Convert Text-to-Audio: Convert text to speech and play audio.
 • Control Volume: Adjust the volume of your laptop.
