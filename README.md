@@ -1,5 +1,3 @@
-![Project Image](https://github.com/LokeshBarkale30/LinuxWorld-Machine-Learning-Project/commit/cf4404593b48d61a5bad1d46b7ac4d232ece3457)
-
 # Python Menu-Based Project
 This project is a comprehensive menu-based Python application that integrates various functionalities, including sending emails and SMS, web scraping, geo-location, text-to-audio conversion, volume control, and more. The project also covers basic machine learning tasks such as data processing and image manipulation.
 ## Features
