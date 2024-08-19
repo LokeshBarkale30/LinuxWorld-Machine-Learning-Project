@@ -25,11 +25,20 @@ This project is a comprehensive menu-based Python application that integrates va
 - Required Python packages (listed in requirements.txt)
 # Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/your-repo.git
+
+```bash
+  git clone https://github.com/yourusername/your-repo.git
+```
 2. Navigate to the project directory:
+
+```bash
 cd your-repo
+```
 3. Install the required packages:
+
+```bash
 pip install -r requirements.txt
+```
 # Running the Application
 1. Start the driver program:
 python driver.py
