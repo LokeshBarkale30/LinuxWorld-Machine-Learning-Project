@@ -1,7 +1,7 @@
 # Python Menu-Based Project
 This project is a comprehensive menu-based Python application that integrates various functionalities, including sending emails and SMS, web scraping, geo-location, text-to-audio conversion, volume control, and more. The project also covers basic machine learning tasks such as data processing and image manipulation.
 ## Features
-Python Tasks
+# Python Tasks
 
 - Send Email Message: Send email messages using SMTP.
 - Send SMS Message: Send SMS messages using the Twilio API.
@@ -11,7 +11,7 @@ Python Tasks
 - Control Volume: Adjust the volume of your laptop.
 - Connect to Mobile for SMS: Send SMS using an Android mobile device.
 - Send Bulk Emails: Send emails to multiple recipients.
-Machine Learning Tasks
+# Machine Learning Tasks
 
 - Data Processing: Automatically process datasets for analysis.
 - Model Integration: Create a model and integrate it with a Flask web application.
@@ -19,10 +19,10 @@ Machine Learning Tasks
 - Image Filtering: Apply various filters to images.
 - Custom Image Creation: Generate custom images using Numpy.
 - Cool Image Filters: Apply creative filters to images.
-# Getting Started
+## Getting Started
 # Prerequisites
-• Python 3.x
-• Required Python packages (listed in requirements.txt)
+- Python 3.x
+- Required Python packages (listed in requirements.txt)
 # Installation
 1. Clone the repository:
 git clone https://github.com/yourusername/your-repo.git
