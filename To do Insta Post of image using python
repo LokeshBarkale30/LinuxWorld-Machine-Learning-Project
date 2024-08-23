@@ -1,0 +1,9 @@
+from instabot import Bot
+
+bot = Bot()
+bot.login(username="your_username", password="your_password")
+
+image_path = "path/to/your/image.jpg"
+caption = "Hello World! #python #instagram"
+
+bot.upload_photo(image_path, caption=caption)
