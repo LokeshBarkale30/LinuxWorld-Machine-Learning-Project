@@ -11,6 +11,9 @@ This project is a comprehensive menu-based Python application that integrates va
 - Control Volume: Adjust the volume of your laptop.
 - Connect to Mobile for SMS: Send SMS using an Android mobile device.
 - Send Bulk Emails: Send emails to multiple recipients.
+- Chatbot using python
+- Facial expresion detector using python
+- Insta image post using python
 # Machine Learning Tasks
 
 - Data Processing: Automatically process datasets for analysis.
